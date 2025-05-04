@@ -26,12 +26,10 @@ I'm a Full-Stack Software Developer | MSc in Information Systems @DBS
 - [GitHub](https://github.com/krvaghani)  
 - [LinkedIn](https://linkedin.com/in/kaushikvaghani)   
 
----
 
 **Technologies I Work With:**  
 React.js, Node.js, Python (Flask/FastAPI), JavaScript, SQL, AWS, MongoDB, MySQL, Docker, Azure, GCP, CI/CD.  
 
----
 
 **Also interested in:**  
 AI/ML, Generative AI, Cloud Architecture, DevOps, Technical helping & Mentoring
