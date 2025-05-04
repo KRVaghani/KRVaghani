@@ -28,9 +28,9 @@ I'm a Full-Stack Software Developer | MSc in Information Systems @DBS
 
 
 **Technologies I Work With:**  
-React.js, Node.js, Python (Flask/FastAPI), JavaScript, SQL, AWS, MongoDB, MySQL, Docker, Azure, GCP, CI/CD.  
+- React.js, Node.js, Python (Flask/FastAPI), JavaScript, SQL, AWS, MongoDB, MySQL, Docker, Azure, GCP, CI/CD.  
 
 
 **Also interested in:**  
-AI/ML, Generative AI, Cloud Architecture, DevOps, Technical helping & Mentoring
+- AI/ML, Generative AI, Cloud Architecture, DevOps, Technical helping & Mentoring
 
