@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a Full-Stack Software Developer | MSc in Information Systems @DBS
 
 🔧 I love building scalable backend systems and sleek front-end interfaces using **React.js**, **Python**, **Node.js**, and **AWS**.  
-🧠 Passionate about solving real-world problems through **Generative AI**, **Clouds Apps**, **Blockchain**, and **Secure API Design**.  
+🧠 Passionate about solving real-world problems through **Generative AI**, **Clouds Apps**,  **CI/CD Pipeline**, **Blockchain**, and **Secure API Design**.  
 📚 Currently sharpening my skills in **Generative AI**, **AWS Cloud Architecture**, and **Advanced DevOps**.  
 
 👨‍💻 Let's build something amazing together:  
