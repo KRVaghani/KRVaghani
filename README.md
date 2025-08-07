@@ -28,7 +28,7 @@ I'm a Full-Stack Software Developer | MSc in Information Systems @DBS
 
 
 **Technologies I Work With:**  
-- Python (Flask/FastAPI), React.js, Node.js, GraphQL, REST, JavaScript, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP, CI/CD, Git/GitLab, Agile/Scrum, JIRA, Unit Testing.  
+- Python (Flask/FastAPI), React.js, Node.js, GraphQL, REST, JavaScript, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP, CI/CD, Networking, Linux, Git/GitLab, Agile/Scrum, JIRA, Unit Testing.  
 
 
 **Also interested in:**  
